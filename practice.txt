@@ -6,3 +6,5 @@ this is after commiting by hk
 ayush siwakoti is a handsome guy and very smart too.
 hello this is new branch
 new branch official
+new branch official 2
+this is commit in newBranch
