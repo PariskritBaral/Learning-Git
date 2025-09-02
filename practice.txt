@@ -8,3 +8,4 @@ hello this is new branch
 new branch official
 new branch official 2
 this is commit in newBranch
+today i also merge this branch
